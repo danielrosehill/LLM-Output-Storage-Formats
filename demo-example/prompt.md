@@ -1,0 +1,1 @@
+Can you explain how Large Language Models (LLMs) like ChatGPT understand and generate language? Imagine you're explaining it to someone who has no background in AI.
